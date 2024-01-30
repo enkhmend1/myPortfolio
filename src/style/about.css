@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400;600;700&display=swap');
+.blog-post {
+    /* display: flex; */
+    width: 100%;
+    max-width: 800px;
+    margin-left: 100px;
+    padding-left: 60px;
+    font-family: 'Roboto Mono';
+    /* padding-left: 100px; */
+  }
+  
+  .article {
+    margin-bottom: 30px;
+  }
+  
+  .article h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .article p {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
